@@ -15,3 +15,27 @@ function practice
 
 #question 3 function
 -creating 2 returns to use 2 previous functions
+
+
+
+
+
+
+
+
+#question 4 functions
+-creating an array and adding a sum
+
+
+
+
+
+
+
+
+
+
+
+
+#question 5 function
+-creating an array and multiplying  a product
