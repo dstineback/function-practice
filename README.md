@@ -14,3 +14,4 @@ function practice
 
 
 #question 3 function
+-creating 2 returns to use 2 previous functions
