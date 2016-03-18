@@ -7,3 +7,11 @@ function practice
 
 #question 2 function
 -multiply two variables to create a console log giving the product
+
+
+
+
+
+
+#question 3 function
+-creating 2 returns to use 2 previous functions
