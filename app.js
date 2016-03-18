@@ -11,3 +11,5 @@ function multiply(multOne, multTwo) {
   var mulTotal = (multOne * multTwo);
   console.log('The product of ' + multOne + ' and ' + multTwo + ' is ' + mulTotal + '.');
 }
+
+//function #3//
