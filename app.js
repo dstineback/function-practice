@@ -18,6 +18,7 @@ function multiply(multOne, multTwo) {
 function sumAndMultiply(numSumOne, numSumTwo, numSumThree) {
   var numSum = ((sum(numSumOne, numSumTwo)) + (numSumThree));
   var numMult = ((multiply(numSumOne, numSumTwo)) * (numSumThree));
-  console.log(numSumOne + ' and ' + numSumTwo + ' and ' + numSumThree + ' sum to ' + numSum);
-  console.log('The numbers ' + numSumOne + ' and ' +  numSumTwo + ' and ' + numSumThree + ' have a product of ' + numMult);
+  console.log(numSumOne + ' and ' + numSumTwo + ' and ' + numSumThree + ' sum to ' + numSum + '.');
+  console.log('The numbers ' + numSumOne + ' and ' +  numSumTwo + ' and ' + numSumThree + ' have a product of ' + numMult + '.');
+  return [numSum, numMult];
 }
